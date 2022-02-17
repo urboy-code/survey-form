@@ -13,6 +13,8 @@ body::before {
   height: 100%;
   background-image: linear-gradient(357deg, rgba(151, 150, 161, 0.6) 0%, rgba(12, 82, 208, 0.7) 57%), url(psg.jpg);
   background-size: cover;
+  background-repeat: no-repeat;
+  background-position: center;
   z-index: -1;
 }
 
